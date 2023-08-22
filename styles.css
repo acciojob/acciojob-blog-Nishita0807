@@ -11,7 +11,7 @@ marquee{
 	color:purple;
 	border-bottom:purple;
 }
-article>img{
+img{
 	height:200px;
 	margin-top:20px;
 	background-size:cover;
