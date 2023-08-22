@@ -1,10 +1,24 @@
 /*  your css code here. If applicable */
+marquee{
+	text-align:center;
+}
 *{
 	padding:0px;
 	margin:0px;
 }
 
+.main{
+	color:purple;
+	border-bottom:purple;
+}
+img{
+	height:200px;
+	margin-top:20px;
+}
 
-h1{
-	text-align:center;
+
+p{
+	text-decoration:underline;
+	padding-top:20px;
+	color:blue;
 }
